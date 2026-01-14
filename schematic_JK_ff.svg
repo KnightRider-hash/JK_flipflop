@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="595.32" height="841.92007" viewBox="0 0 595.32 841.92007">
+<path transform="matrix(.75,0,0,.75,0,0)" d="M0 0H793.6V1122.56H0V0Z" fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,57.052499,343.3725)" d="M0 0V0L-6.72 6.72-6.82 6.81H-6.95-20.07-20.39V6.49-6.95-7.27H-20.07-6.95-6.82L-6.72-7.18 0-.46 .22-.23 0 0ZM-.46-.46-.23-.23-.46 0-7.18-6.72-6.95-6.95V-6.63H-20.07V-6.95H-19.75V6.49H-20.07V6.17H-6.95V6.49L-7.18 6.26-.46-.46Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="462.4" x="41.76">j</tspan></text>
+<path transform="matrix(.75,0,0,.75,57.052499,393.2925)" d="M0 0V0L-6.72 6.72-6.82 6.81H-6.95-20.07-20.39V6.49-6.95-7.27H-20.07-6.95-6.82L-6.72-7.18 0-.46 .22-.23 0 0ZM-.46-.46-.23-.23-.46 0-7.18-6.72-6.95-6.95V-6.63H-20.07V-6.95H-19.75V6.49H-20.07V6.17H-6.95V6.49L-7.18 6.26-.46-.46Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="528.96" x="38.56">k</tspan></text>
+<path transform="matrix(.75,0,0,.75,57.052499,442.9725)" d="M0 0V0L-6.72 6.72-6.82 6.81H-6.95-20.07-20.39V6.49-6.95-7.27H-20.07-6.95-6.82L-6.72-7.18 0-.46 .22-.23 0 0ZM-.46-.46-.23-.23-.46 0-7.18-6.72-6.95-6.95V-6.63H-20.07V-6.95H-19.75V6.49H-20.07V6.17H-6.95V6.49L-7.18 6.26-.46-.46Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="595.2" x="28.96 35.24226 38.53613">clk</tspan></text>
+<path transform="matrix(.75,0,0,.75,57.052499,492.6525)" d="M0 0V0L-6.72 6.72-6.82 6.81H-6.95-20.07-20.39V6.49-6.95-7.27H-20.07-6.95-6.82L-6.72-7.18 0-.46 .22-.23 0 0ZM-.46-.46-.23-.23-.46 0-7.18-6.72-6.95-6.95V-6.63H-20.07V-6.95H-19.75V6.49H-20.07V6.17H-6.95V6.49L-7.18 6.26-.46-.46Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="661.44" x="15.84 20.568299 27.680668 33.451585 40.563955">reset</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M113.6 457.6V446.08L142.08 457.6 113.6 469.12V457.6Z" fill="#ffffcc" fill-rule="evenodd"/>
+<path transform="matrix(.75,0,0,.75,84.96,343.2)" d="M0 0V0-11.52-11.99L.44-11.82 28.92-.3 29.65 0 28.92 .3 .44 11.82 0 11.99V11.52 0H.32 0ZM.64 0V0 11.52H.32L.2 11.22 28.68-.3 28.8 0 28.68 .3 .2-11.22 .32-11.52H.64V0Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="440.8" x="122.4 125.800128 131.37633 134.9956 142.8839 152.13225 158.9325 164.5087 167.80257 175.49933 181.34755">j_IBUF_inst</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="482.72" x="122.4 126.01927 133.90756 143.1559">IBUF</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M151.68 457.92V457.92H142.08V457.28H151.68Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="453.6" x="149.76">O</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M104.32 457.28V457.28H113.6V457.92H104.32Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="453.6" x="102.72">I</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M113.6 524.16V512.64L142.08 524.16 113.6 535.68V524.16Z" fill="#ffffcc" fill-rule="evenodd"/>
+<path transform="matrix(.75,0,0,.75,84.96,393.12)" d="M0 0V0-11.52-11.99L.44-11.82 28.92-.3 29.65 0 28.92 .3 .44 11.82 0 11.99V11.52 0H.32 0ZM.64 0V0 11.52H.32L.2 11.22 28.68-.3 28.8 0 28.68 .3 .2-11.22 .32-11.52H.64V0Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="507.36" x="122.4 129.06426 134.709 138.32828 146.21657 155.46492 162.26517 167.84137 171.2415 178.85778 184.706">k_IBUF_inst</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="549.28" x="122.4 126.01927 133.90756 143.1559">IBUF</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M151.68 524.48V524.48H142.08V523.84H151.68Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="520.16" x="149.76">O</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M104.32 523.84V523.84H113.6V524.48H104.32Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="520.16" x="102.72">I</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M113.6 590.4V578.88L142.08 590.4 113.6 601.92V590.4Z" fill="#ffffcc" fill-rule="evenodd"/>
+<path transform="matrix(.75,0,0,.75,84.96,442.80003)" d="M0 0V0-11.52-11.99L.44-11.82 28.92-.3 29.65 0 28.92 .3 .44 11.82 0 11.99V11.52 0H.32 0ZM.64 0V0 11.52H.32L.2 11.22 28.68-.3 28.8 0 28.68 .3 .2-11.22 .32-11.52H.64V0Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="573.6" x="122.4 128.68227 131.97614 138.73654 144.31275 147.93202 155.82032 165.06865 171.8689 177.4451 180.84523 188.4615 194.23242">clk_IBUF_inst</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="615.52" x="122.4 126.01927 133.90756 143.1559">IBUF</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M151.68 590.72V590.72H142.08V590.08H151.68Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="586.4" x="149.76">O</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M104.32 590.08V590.08H113.6V590.72H104.32Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="586.4" x="102.72">I</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M284.16 448.32H341.12V505.28H284.16V448.32Z" fill="#ffffcc"/>
+<path transform="matrix(.75,0,0,.75,213.12,336)" d="M0 0V0H56.96 57.28V.32 57.28 57.6H56.96 0-.32V57.28 .32 0H0ZM0 .64V.32H.32V57.28H0V56.96H56.96V57.28H56.64V.32H56.96V.64H0Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="442.72" x="297.6 305.6089 311.1851 314.5852 320.1614">q_i_1</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="518.88" x="297.44 303.8418 313.09013 320.2984">LUT3</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M350.4 477.12V477.12H341.12V476.48H350.4Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="480.8" x="324.8">O</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M274.56 457.28V457.28H284.16V457.92H274.56Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="461.92" x="291.84 294.86317">I0</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M274.56 476.48V476.48H284.16V477.12H274.56Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="480.8" x="291.84 294.86317">I1</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M274.56 495.36V495.36H284.16V496H274.56Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="499.68" x="291.84 294.86317">I2</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M284.16 590.4V578.88L312.64 590.4 284.16 601.92V590.4Z" fill="#ffffcc" fill-rule="evenodd"/>
+<path transform="matrix(.75,0,0,.75,212.88,442.80003)" d="M0 0V0-11.52-11.99L.44-11.82 28.92-.3 29.65 0 28.92 .3 .44 11.82 0 11.99V11.52 0H.32 0ZM.64 0V0 11.52H.32L.2 11.22 28.68-.3 28.8 0 28.68 .3 .2-11.22 .32-11.52H.64V0Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="573.6" x="292.96 299.24226 302.53614 309.29655 314.87275 318.492 326.3803 335.62864 342.4289 348.0051 355.8934 365.14173 371.7826 381.11305 386.68925 390.08937 397.70567 403.55387">clk_IBUF_BUFG_inst</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="615.52" x="292.96 300.8483 310.09663 316.7375">BUFG</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M321.92 590.72V590.72H312.64V590.08H321.92Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="586.4" x="320.32">O</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M274.56 590.08V590.08H284.16V590.72H274.56Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="586.4" x="273.28">I</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M284.16 656.64V645.12L312.64 656.64 284.16 668.16V656.64Z" fill="#ffffcc" fill-rule="evenodd"/>
+<path transform="matrix(.75,0,0,.75,212.88,492.48)" d="M0 0V0-11.52-11.99L.44-11.82 28.92-.3 29.65 0 28.92 .3 .44 11.82 0 11.99V11.52 0H.32 0ZM.64 0V0 11.52H.32L.2 11.22 28.68-.3 28.8 0 28.68 .3 .2-11.22 .32-11.52H.64V0Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="639.84" x="292.96 297.68827 304.80064 310.57154 317.6839 322.29267 327.86888 331.48814 339.37644 348.62477 355.42503 361.00123 364.2951 371.99189 377.7628">reset_IBUF_inst</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="681.76" x="292.96 296.57926 304.46757 313.71589">IBUF</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M321.92 656.96V656.96H312.64V656.32H321.92Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="652.64" x="320.32">O</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M274.56 656.32V656.32H284.16V656.96H274.56Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="652.64" x="273.28">I</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M473.28 552.32V552.32 548.48H473.92V552.32Z"/>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M465.92 548.16V548.16H481.28V548.8H465.92Z"/>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M502.08 580.8H559.04V675.52H502.08V580.8Z" fill="#ffffcc"/>
+<path transform="matrix(.75,0,0,.75,376.56,435.36)" d="M0 0V0H56.96 57.28V.32 95.04 95.36H56.96 0-.32V95.04 .32 0H0ZM0 .64V.32H.32V95.04H0V94.72H56.96V95.04H56.64V.32H56.96V.64H0Z"/>
+<path transform="matrix(.75,0,0,.75,376.46253,451.7025)" d="M0 0V0L6.72-2.88 6.85-2.59 6.72-2.3 0-5.18 .26-5.76 6.98-2.88 7.66-2.59 6.98-2.3 .26 .58Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="575.2" x="513.76 521.76889 527.3451 532.07339 539.1858">q_reg</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="689.44" x="514.72 521.36087 531.01718 539.58547">FDCE</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M568.32 628.48V628.48H559.04V627.84H568.32Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="632.16" x="542.72">Q</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M492.48 599.36V599.36H502.08V600H492.48Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="603.68" x="516.48">C</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M492.48 618.24V618.24H502.08V618.88H492.48Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="622.56" x="509.76 516.7937">CE</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M492.48 637.44V637.44H502.08V638.08H492.48Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="641.76" x="509.76 516.7937 522.1411">CLR</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M492.48 656.32V656.32H502.08V656.96H492.48Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="660.64" x="509.76">D</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M624.96 533.44V521.92L653.44 533.44 624.96 544.96V533.44Z" fill="#ffffcc" fill-rule="evenodd"/>
+<path transform="matrix(.75,0,0,.75,468.48,400.08003)" d="M0 0V0-11.52-11.99L.44-11.82 28.92-.3 29.65 0 28.92 .3 .44 11.82 0 11.99V11.52 0H.32 0ZM.64 0V0 11.52H.32L.2 11.22 28.68-.3 28.8 0 28.68 .3 .2-11.22 .32-11.52H.64V0Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="516.64" x="633.76 641.76889 647.3451 657.5986 665.4869 674.7352 681.3761 687.0209 690.421 698.0373 703.8855">q_OBUF_inst</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="558.56" x="633.76 644.0135 651.9018 661.15017">OBUF</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M663.04 533.76V533.76H653.44V533.12H663.04Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="529.44" x="661.12">O</tspan></text>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M615.68 533.12V533.12H624.96V533.76H615.68Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="11.3604" font-family="Segoe UI"><tspan y="529.44" x="614.08">I</tspan></text>
+<path transform="matrix(.75,0,0,.75,553.92,400.08003)" d="M0 0V0-6.72-7.04H.32 13.44 13.57L13.67-6.95 20.39-.23 20.61 0 20.39 .23 13.67 6.95 13.57 7.04H13.44 .32 0V6.72 0H.32 0ZM.64 0V0 6.72H.32V6.4H13.44V6.72L13.21 6.49 19.93-.23 20.16 0 19.93 .23 13.21-6.49 13.44-6.72V-6.4H.32V-6.72H.64V0Z"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="13.6005" font-family="Segoe UI"><tspan y="538.24" x="769.44">q</tspan></text>
+<path transform="matrix(.75,0,0,.75,355.44,414.24)" d="M0 0V0 66.24H-.32V65.92H18.56V66.56H-.32-.64V66.24 0Z" fill="#19b400"/>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M75.84 590.08V590.08H104.32V590.72H75.84Z" fill="#19b400"/>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M151.68 590.08V590.08H274.56V590.72H151.68Z" fill="#19b400"/>
+<path transform="matrix(.75,0,0,.75,241.44,442.56)" d="M0 0V0H113.92 114.24V.32 9.6H113.92V9.28H170.56V9.92H113.92 113.6V9.6 .32H113.92V.64H0Z" fill="#19b400"/>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M75.84 457.28V457.28H104.32V457.92H75.84Z" fill="#19b400"/>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M151.68 457.28V457.28H274.56V457.92H151.68Z" fill="#19b400"/>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M75.84 523.84V523.84H104.32V524.48H75.84Z" fill="#19b400"/>
+<path transform="matrix(.75,0,0,.75,113.759998,392.88)" d="M0 0V0H75.84V.32H75.52V-47.04-47.36H75.84 122.88V-46.72H75.84V-47.04H76.16V.32 .64H75.84 0Z" fill="#19b400"/>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M663.04 533.12V533.12H738.88V533.76H663.04Z" fill="#19b400"/>
+<path transform="matrix(.75,0,0,.75,205.92,372)" d="M0 0V0H-28.16V-.32H-27.84V37.44H-28.16V37.12H312.64 312.96V37.44 132.16 132.48H312.64 293.76V131.84H312.64V132.16H312.32V37.44H312.64V37.76H-28.16-28.48V37.44-.32-.64H-28.16 0Z" fill="#19b400"/>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M587.2 533.12V533.12H615.68V533.76H587.2Z" fill="#19b400"/>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M585.92 532.16H588.48V534.72H585.92V532.16Z" fill="#19b400"/>
+<path transform="matrix(.75,0,0,.75,262.8,357.36003)" d="M0 0V0H104.32 104.64V.32 180.16H104.32V179.84H142.08V180.48H104.32 104V180.16 .32H104.32V.64H0Z" fill="#19b400"/>
+<path transform="matrix(.75,0,0,.75,0,0)" d="M75.84 656.32V656.32H274.56V656.96H75.84Z" fill="#19b400"/>
+<path transform="matrix(.75,0,0,.75,241.44,492.24)" d="M0 0V0H113.92V.32H113.6V-18.56-18.88H113.92 170.56V-18.24H113.92V-18.56H114.24V.32 .64H113.92 0Z" fill="#19b400"/>
+</svg>
